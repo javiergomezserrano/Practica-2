@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Esta es la primera línea del MODIFICADA del Alumno B
 Esta es la SEGUNDA línea MODIFICADA del alumno B
+=======
+Esta es la primera línea MODIFICADA del Alumno A
+Esta es la SEGUNDA línea MODIFICADA del Alumno A
+>>>>>>> Texto modificado Alumno A
